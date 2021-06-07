@@ -33,7 +33,7 @@
 <img align="left" alt="Plotly" width="26px" src="https://cdn-images-1.medium.com/max/200/1*4s68xZ7SUymwwDBn3V97hQ@2x.png" />
 <img align="left" alt="Apache Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" />
 <img align="left" alt="R Language" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />
-<img align="left" alt="SQL" width="26px" src="https://img1.pnghut.com/23/6/9/MuQXWFxY4g/microsoft-sign-brand-amazon-web-services-text.jpg" />
+<img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Google Analytics" width="26px" src="https://assets.website-files.com/5899c33e50480cd959d337ec/5a4f895043b1600001dc65ef_ga%20logo2%20valkoinen.png" />
 <img align="left" alt="Microsoft Power BI" width="26px" src="https://ellipsesolutions.com/wp-content/uploads/2017/01/PowerBI-Logo.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="30px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
