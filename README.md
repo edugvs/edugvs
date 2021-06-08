@@ -15,9 +15,106 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="edugvs Spotify Playing" width="350" />](https://open.spotify.com/user/12150923777)
 
 
-GET https://api.spotify.com/v1/me/player
+G{
+  "device": {
+    "id": "f3e0fa13933bf0a29584e162575a5d2a47f04312",
+    "is_active": true,
+    "is_private_session": false,
+    "is_restricted": false,
+    "name": "DESKTOP-EDUARDO",
+    "type": "Computer",
+    "volume_percent": 0
+  },
+  "shuffle_state": false,
+  "repeat_state": "off",
+  "timestamp": 1623120516271,
+  "context": null,
+  "progress_ms": 42285,
+  "item": {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "type": "artist",
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0MeOIA0wwSa6nW79jy8QcZ",
+      "id": "0MeOIA0wwSa6nW79jy8QcZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273407981084d79d283e24d428e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02407981084d79d283e24d428e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851407981084d79d283e24d428e",
+          "width": 64
+        }
+      ],
+      "name": "x (Wembley Edition)",
+      "release_date": "2015-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:0MeOIA0wwSa6nW79jy8QcZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 241346,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "GBAHS1400096"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5rYipCuUMXmKr5XM3eDC1r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5rYipCuUMXmKr5XM3eDC1r",
+    "id": "5rYipCuUMXmKr5XM3eDC1r",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Tenerife Sea",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/fcbc500815ae157ff46f7acaa9d8eef4cc54f454?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5rYipCuUMXmKr5XM3eDC1r"
+  },
+  "currently_playing_type": "track",
+  "actions": {
+    "disallows": {
+      "resuming": true
+    }
+  },
+  "is_playing": true
+}
 
-curl -X "GET" "https://api.spotify.com/v1/me/player?market=ES&additional_types=episode" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer BQDAhifthG3DQCPsbUb13B6_VVrUB0yvfyVywyEElxRE6UUP0ALE_8zngVQqMYR8joa9lDP--zs8fKw1L_EouFNuAjrpB1FfbMNn0tiJm7ETZtlwKDHWquuNzniIy_DvdcIBma-f1X5LZ-nzdQ77f19L"
 
 ### Connect with me:
 
