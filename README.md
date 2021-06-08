@@ -47,7 +47,7 @@
 ### 📕 Latest Blog Posts (Posts in Brazilian Portuguese)
 
 <!-- BLOG-POST-LIST:START -->
-- [How does “CART” cell therapy fight against cancer?](https://biologiaparabiologos.com.br/saiba-como-a-imunoterapia-celular-combate-o-cancer/)
+- [How does “CART” cell therapy fights against cancer?](https://biologiaparabiologos.com.br/saiba-como-a-imunoterapia-celular-combate-o-cancer/)
 - [The Challenge of Training Biology Teachers](https://biologiaparabiologos.com.br/o-desafio-de-formar-professores-de-biologia/)
 - [How to work in Astrobiology?](https://biologiaparabiologos.com.br/como-atuar-na-astrobiologia/)
 - [Quantic Biology? What is this?](https://biologiaparabiologos.com.br/a-incrivel-ciencia-da-biologia-quantica/)
