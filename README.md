@@ -5,7 +5,7 @@
 
 ## I'm a Biomedical Scientist, Researcher, Teacher, and Data Scientist!!
 
-- 🔬 I currently working on a research to evaluate the influence of molecules called glycosaminoglycans on T cell activation and exhaustion!
+- 🔬 I currently working on research to evaluate the influence of molecules called glycosaminoglycans on T cell activation and exhaustion!
 - 📚 I'm living in learning mode
 - 🥅 2021 Goals: Contribute more to Data Science & Analytics projects
 - ⚡ Fun fact: I love to read non-fiction books, play guitar and watch documentaries about any kind of science
@@ -47,7 +47,7 @@
 ### 📕 Latest Blog Posts (Posts in Brazilian Portuguese)
 
 <!-- BLOG-POST-LIST:START -->
-- [How does “CART” cell therapy fights against cancer?](https://biologiaparabiologos.com.br/saiba-como-a-imunoterapia-celular-combate-o-cancer/)
+- [How does “CART” cell therapy fight against cancer?](https://biologiaparabiologos.com.br/saiba-como-a-imunoterapia-celular-combate-o-cancer/)
 - [The Challenge of Training Biology Teachers](https://biologiaparabiologos.com.br/o-desafio-de-formar-professores-de-biologia/)
 - [How to work in Astrobiology?](https://biologiaparabiologos.com.br/como-atuar-na-astrobiologia/)
 - [Quantic Biology? What is this?](https://biologiaparabiologos.com.br/a-incrivel-ciencia-da-biologia-quantica/)
