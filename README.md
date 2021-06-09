@@ -29,7 +29,7 @@
 <img align="left" alt="Pandas" width="26px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Seaborn" width="26px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Scikit-Learn" width="26px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
-<img align="left" alt="Apache Spark" width="32px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
+<img align="left" alt="Apache Spark" width="36px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
 <img align="left" alt="R Language" width="26px" src="https://i.postimg.cc/C5FLSGTy/r-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Google Analytics" width="26px" src="https://i.postimg.cc/sXPDknL9/ga-logo2.png" />
