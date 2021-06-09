@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="edugvs.github.io" width="22px" src="https://lh3.googleusercontent.com/F8J1fGTMHStLpmp4LDomj0iAOEn8aRvJJoo0uBbIiPlivhK9EjLyVlAOq0Fw8WBVpgQhBKUDwWfxbLiL5YFfUxVOu-_j5Ph51I5cQfX24agykQOc7PfOCFvS-m4Xx-iOygmOEKE7EDEqBQfC5ELsd5HvWnkzKoZSxxhwyMh71nOvKwObAPiK-jJeRKgr4s7HpSzMTmAHDtce4qT8ZUB6lxF94OmWEPRc3ik7hrAbf8EugvwQTV1_NnNqAVcivBx4z8Akxm176DZ3AijjoD1Q8sU1lkRY04xY4pNCuJg23G_L2u7YEmFePvGR0RTQQNk8WSk20db2D5styqIayB1LydYTExJkk79EY-a7iuVIc1WyVW1AYVldOdOt48B6ANMy84MoP6Rk9ZvoY0M7barigumHVMtRLeVtZFXFy3nr1GCvFd0Fy5Uo-pKCBjsifDQfBKRWOfLacY8NmqdKazwPfuV7KsI_mxtdkejeR4_9KxqXW_srA0S-G9Q5oMInCmqJxXLrcRZHbA55UZB-4eyzZ2zV_7wifQwaBot1Wx3emdKLCwj5drwVqDMKXZmELms-NRx3VkAqE6aA6Tyhou6BgakGhyF8GzncusCBCTIP4xQIjNGDN13BA_zrQRfqQyS3h3fMsyTFAVKmb3Gtj_BvCwTc319147c3yYIdarCK7R5hJOhGsEQrSU_CH6z44X6NxAZRnrA6jJsG88y9BVVt1tWsHw=s180-no?authuser=0" />][website]
+[<img align="left" alt="edugvs.github.io" width="22px" src="https://i.postimg.cc/6p76W6SQ/apple-touch-icon.png" />][website]
 [<img align="left" alt="edugvs | Twitter" width="22px" src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 [<img align="left" alt="edugvs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="edugvs | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
