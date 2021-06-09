@@ -5,7 +5,7 @@
 
 ## I'm a Biomedical Scientist, Researcher, Teacher, and Data Scientist!!
 
-- 🔬 I currently working on research to evaluate the influence of molecules called glycosaminoglycans on T cell activation and exhaustion!
+- 🔬 I'm currently working on research to evaluate the influence of molecules called glycosaminoglycans on T cell activation and exhaustion!
 - 📚 I'm living in learning mode
 - 🥅 2021 Goals: Contribute more to Data Science & Analytics projects
 - ⚡ Fun fact: I love to read non-fiction books, play guitar and watch documentaries about any kind of science
