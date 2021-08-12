@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Data Science & Analytics projects
 - ⚡ Fun fact: I love to read non-fiction books, play guitar and watch documentaries about any kind of science
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="edugvs Spotify Playing" width="350" />](https://open.spotify.com/user/12150923777)
 
 ### Connect with me:
 
