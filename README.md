@@ -7,7 +7,7 @@
 
 - 🔬 I'm currently working on research to evaluate the influence of molecules called glycosaminoglycans on T cell activation and exhaustion!
 - 📚 Living in learning mode
-- 🥅 2021 Goals: Contribute more to Data Science & Analytics projects
+- 🥅 2022 Goals: Contribute more to Data Science & Analytics projects
 - ⚡ Fun fact: I love to read non-fiction books, play guitar and watch documentaries about any kind of science
 
 
